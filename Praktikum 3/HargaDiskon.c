@@ -1,5 +1,5 @@
 /* Nama File: HargaDiskon.c */
-/* Deskripsi: Menghitung  */
+/* Deskripsi: Menghitung harga diskon tergantung pada jenis diskon */
 /* Nama: Thifa Ziada Taqiyya */
 /* NIM: 24060121130080 */
 
