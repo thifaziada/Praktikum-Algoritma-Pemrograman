@@ -1,5 +1,5 @@
 /* Nama File: UpahKerja.c */
-/* Deskripsi: Menghitung upah kerja berdasa */
+/* Deskripsi: Menghitung upah kerja berdasarkan lamanya jam kerja dan golongan */
 /* Nama: Thifa Ziada Taqiyya */
 /* NIM: 24060121130080 */
 
